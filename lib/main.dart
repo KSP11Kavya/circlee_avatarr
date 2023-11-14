@@ -45,7 +45,7 @@ void main() {
 
         body: Center(
           child: CircleAvatar(
-            backgroundColor: Colors.purple[100],
+            backgroundColor: Colors.purple[300],
             radius: 110,
             child: CircleAvatar(
               backgroundImage: NetworkImage(
